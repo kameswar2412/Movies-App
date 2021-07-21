@@ -38,8 +38,6 @@ constructor(props){
 
            </div>
 
-           
-
          </div>
 
          );
